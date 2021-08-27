@@ -30,7 +30,7 @@ public class MyWindow {
 		// });
 
 		// using lambda expression
-		button.addActionListener((ActionEvent e) -> {
+		button.addActionListener(e -> {
 			System.out.println("button click");
 			JOptionPane.showMessageDialog(null, "Hey button clicked");
 		});
