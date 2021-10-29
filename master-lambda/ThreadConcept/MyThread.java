@@ -1,4 +1,5 @@
 
+// using runnbale
 public class MyThread implements Runnable {
 
 	@Override

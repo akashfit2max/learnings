@@ -1,4 +1,4 @@
-package threadclass;
+
 
 public class My2Thread extends Thread {
 
